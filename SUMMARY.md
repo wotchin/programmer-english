@@ -1,5 +1,7 @@
 # Table of contents
 
-* [programmer-english](README.md)
-* [Preface](preface.md)
-* [Untitled](untitled.md)
+* [Preface](README.md)
+
+## Career Life
+
+* [Resume Wording](career-life/resume-wording.md)
